@@ -1,7 +1,7 @@
 {
     "GSI positions": {
         "url": "https://ebg-muenchen-west.de/wohnungsangebote/",
-        "on": "in",
+        "on": "not_in",
         "txt": "Aktuell sind leider keine freien Wohnungen verf\u00fcgbar.",
         "repeat": "forever"
     }
